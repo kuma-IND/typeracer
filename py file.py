@@ -173,8 +173,6 @@ class Game:
         
         pygame.display.update()
 
-
-
 Game().run()
 
 

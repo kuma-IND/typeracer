@@ -4,7 +4,7 @@ import sys
 import time
 import random
 
-# 750 x 500    
+# 750 x 500
     
 class Game:
    
